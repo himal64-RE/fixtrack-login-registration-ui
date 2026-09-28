@@ -19,10 +19,13 @@ This repository contains the Login and Registration screens.
 
 **Login page:**
 ![login.png](Screenshots/login.png)
+
 **Registration page**: 
 ![register.png](Screenshots/register.png)
+
 **Login valodation**:
 ![login_validation.png](Screenshots/login_validation.png)
+
 **Registration validation**:
 ![registration_validation.png](Screenshots/registration_validation.png)
 
