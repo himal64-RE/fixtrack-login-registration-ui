@@ -17,17 +17,17 @@ This repository contains the Login and Registration screens.
 
 ## Screenshots
 
-**Login page:**
-![login.png](Screenshots/login.png)
+### Login and Registration
 
-**Registration page**: 
-![register.png](Screenshots/register.png)
+| Login Page | Registration Page |
+|:----------:|:-----------------:|
+| <img src="Screenshots/login.png" width="250" alt="Login page"> | <img src="Screenshots/register.png" width="250" alt="Registration page"> |
 
-**Login valodation**:
-![login_validation.png](Screenshots/login_validation.png)
+### Form Validation
 
-**Registration validation**:
-![registration_validation.png](Screenshots/registration_validation.png)
+| Login Validation | Registration Validation |
+|:----------------:|:-----------------------:|
+| <img src="Screenshots/login_validation.png" width="250" alt="Login page showing validation errors"> | <img src="Screenshots/registration_validation.png" width="250" alt="Registration page showing validation errors"> |
 
 ## Technologies Used
 
